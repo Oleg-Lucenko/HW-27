@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HW-27/static/css/main.f246bbcb.css",
+    "main.js": "/HW-27/static/js/main.b32bf176.js",
+    "static/js/787.26a9864e.chunk.js": "/HW-27/static/js/787.26a9864e.chunk.js",
+    "static/media/endocrine-system.jpeg": "/HW-27/static/media/endocrine-system.6dba46c1a26622ca1df9.jpeg",
+    "static/media/nervous-system.jpeg": "/HW-27/static/media/nervous-system.8d9590cfe6a7cf639d1e.jpeg",
+    "static/media/Respiratory System.jpeg": "/HW-27/static/media/Respiratory System.a0e7e73b122dbd7c5186.jpeg",
+    "static/media/system-head-neck.webp": "/HW-27/static/media/system-head-neck.4944d328d9b4e10bf3d9.webp",
+    "index.html": "/HW-27/index.html",
+    "main.f246bbcb.css.map": "/HW-27/static/css/main.f246bbcb.css.map",
+    "main.b32bf176.js.map": "/HW-27/static/js/main.b32bf176.js.map",
+    "787.26a9864e.chunk.js.map": "/HW-27/static/js/787.26a9864e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f246bbcb.css",
+    "static/js/main.b32bf176.js"
+  ]
+}
