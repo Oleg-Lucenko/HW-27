@@ -4,7 +4,7 @@ import Header from './components/Header/Header.js';
 import Nav from './components/Nav/Nav.js';
 
 
-import {HashRouter, Routes, Route, Link} from 'react-router-dom';
+import {HashRouter, Routes, Route} from 'react-router-dom';
 
 
 import Home from './pages/Home.js';

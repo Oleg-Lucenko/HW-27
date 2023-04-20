@@ -18,7 +18,14 @@
     text-decoration: none;
 }
 
+.nav__link.active {
+    background-color: #6490e9;
+}
+.nav__link.active:hover {
+    background-color: #6490e9;
+}
+
 .nav__item:hover,
 .nav__link:hover {
-    background-color: #7396db;
+    background-color: #88a8e8;
 } 
