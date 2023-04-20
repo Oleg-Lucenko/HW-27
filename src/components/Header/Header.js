@@ -4,16 +4,7 @@ import {Link} from 'react-router-dom';
 import {activeLinks} from '../Nav/Nav.js'
 
 
-// function homePageActive() {
-//     let links = document.querySelectorAll("a");
 
-//     for (var i = 0; i < links.length; i++) {
-//       links[i].classList.remove("active");
-//     }
-
-//     let homePageLink = document.querySelector('.nav > .nav__item > a');
-//     homePageLink.classList.add('active');
-// };
 
 function Header() {
     return (
