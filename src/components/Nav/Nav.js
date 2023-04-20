@@ -3,12 +3,18 @@ import './Nav.css';
 import {Link} from 'react-router-dom';
 
 
-const activeLinks = e => {
+export function activeLinks(e) {
     let links = document.querySelectorAll("a");
+    let homePageLink = document.querySelector('.nav > .nav__item > a');
+    let logoLink = document.querySelector('.header a img');
 
     for (var i = 0; i < links.length; i++) {
       links[i].classList.remove("active");
-    }
+    };
+
+    if (e.currentTarget === logoLink) {
+        homePageLink.classList.add('active');
+    };
 
     e.currentTarget.classList.add("active");
   };
